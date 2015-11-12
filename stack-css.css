@@ -1,0 +1,26 @@
+
+
+#navigation {
+  background-color: darkgrey;
+}
+
+#header1 {
+  background-color: white;
+}
+nav ul li {
+  text-align: inline
+}
+
+header{
+position: static;
+}
+
+ul li {
+  text-align: inline;
+  display: inline;
+  list-style-type: none; 
+}
+
+#register {
+  display: center;
+}
